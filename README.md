@@ -15,7 +15,7 @@ http://35.231.83.174/
 │   └── src       #holds dockerfile and main app startup point
 ├── database/                      #schema for SQL database
 ├── frontend/                    #frontend and graphics
-├── proxy                   # The project's legal license terms
+├── proxy               
 └── README.md                 # Project summary, setup, and structural explanation
 ```
 
