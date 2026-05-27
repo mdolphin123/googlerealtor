@@ -10,7 +10,7 @@ http://35.231.83.174/
 ```
 ├── api/              # holds backend services
 │   └── data        #data used for predictions and feature display
-│   └── models      #models for future house price predictions
+│   └── models      #models for future house price predictions, stored with pickle
 │   └── node_modules    #frameworks and packages
 │   └── src       #holds dockerfile
 ├── database/                      # Main source code of the project
