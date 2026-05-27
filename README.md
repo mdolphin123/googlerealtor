@@ -13,8 +13,8 @@ http://35.231.83.174/
 │   └── models      #models for future house price predictions, stored with pickle
 │   └── node_modules    #frameworks and packages
 │   └── src       #holds dockerfile and main app startup point
-├── database/                      #
-├── frontend/                    # 
+├── database/                      #schema for SQL database
+├── frontend/                    #frontend and graphics
 ├── proxy                   # The project's legal license terms
 └── README.md                 # Project summary, setup, and structural explanation
 ```
