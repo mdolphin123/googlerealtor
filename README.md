@@ -8,7 +8,7 @@ http://35.231.83.174/
 
 **Repository Structure:**
 ```
-├── api/              # Standardized bug/feature templates
+├── api/              # holds backend services
 │   └── data        #data used for predictions and feature display
 │   └── models      #models for future house price predictions
 │   └── node_modules    #frameworks and packages
