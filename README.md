@@ -4,8 +4,9 @@
 ```
 https://docs.google.com/document/d/1_VrdA0xY3gB_xPTi3IepuZD7_03X1Rpu3pK7OeY1uCs/edit?usp=sharing
 ```
-```
+
 **Visit Our Live Prototype Link:**
+```
 http://35.231.83.174/
 ```
 
@@ -23,7 +24,6 @@ http://35.231.83.174/
 └── README.md                 # Project summary, setup, and structural explanation
 ```
 **Design Decisions (Visit project documentation for more detail):**
-- 
 
 
 **Watch our Demo:**
